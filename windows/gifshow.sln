@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "gifshow", "gifshow.dsp", "{04014C79-61CE-4AB8-B627-8036710F8AB5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D0F34690-1173-4649-A244-B79755446348} = {D0F34690-1173-4649-A244-B79755446348}
+	EndProjectSection
+EndProject
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "libungif", "libungif.dsp", "{D0F34690-1173-4649-A244-B79755446348}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
